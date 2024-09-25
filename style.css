@@ -1,7 +1,16 @@
+body{
+    background-color: rgb(48, 219, 162);
+}
 table{
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
+    background-color: aquamarine;
+    font-size: large;
+
+}
+h1{
+    background-color: aquamarine;
 }
 td,th{
     border: 1px solid #dddddd;
